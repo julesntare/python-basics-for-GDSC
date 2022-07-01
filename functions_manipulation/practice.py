@@ -67,3 +67,9 @@ def maxOfYourValues(*values):
 
 
 print(maxOfYourValues(5, 3, 33, 1, 36, 34634, 32))
+
+# print method parameters
+import inspect 
+  
+# use signature() 
+print(inspect.signature(cube)) 

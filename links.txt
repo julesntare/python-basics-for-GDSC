@@ -1,0 +1,13 @@
+https://pynative.com/python-list-exercise-with-solutions/
+https://pythonlobby.com/python-string-exercises-with-solution/
+https://pynative.com/python-dictionary-exercise-with-solutions/
+https://www.geeksforgeeks.org/absolute-and-relative-imports-in-python/
+
+
+https://realpython.com/python-numbers/
+https://www.pythonforbeginners.com/basics/string-manipulation-in-python
+https://www.pythonforbeginners.com/basics/python-list-manipulation
+https://dkgoelsolutions.com/notes-chapter-8-tuple-manipulation/
+https://www.programiz.com/python-programming/set
+https://realpython.com/python-dicts/#:~:text=Dictionaries%20are%20Python%E2%80%99s%20implementation%20of%20a%20data%20structure,key-value%20pairs%20in%20curly%20braces%20%28%20%7B%7D%20%29
+http://theautomatic.net/2017/08/31/file-manipulation-with-python/

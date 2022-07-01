@@ -1,13 +1,15 @@
 
 ''' operations on numbers '''
 # casting
+x= 4
+y= "3"
 toFloat = float(x)
 toInt = int(y)
 toComplex = complex(x)
 
 print(toFloat, toInt, toComplex)
 
-# different presentition of numbers
+# different presentation of numbers
 print(1000000, 1_000_000, 1e-5)
 print(200000000000000000.0)
 
